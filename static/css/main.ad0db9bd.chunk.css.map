@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AACA,EACE,qBAAsB,CACvB,KAGC,uDAA4D,CAC5D,cAAe,CAChB,KAGC,uBAAwB","file":"main.ad0db9bd.chunk.css","sourcesContent":["\n* {\n  box-sizing: border-box;\n}\n\nhtml {\n  font-family: \"Segoe UI\", Tahoma, Geneva, Verdana, sans-serif;\n  font-size: 14px;\n}\n\nbody {\n  background-color: tomato;\n}\n"]}
